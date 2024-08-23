@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "923288245047;GURU;6281255369012;Ash"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "vîshãl Rãjpøøt"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~XKDRCTfA"
     },
     "MODE": {
       "description": "mode public or private",
@@ -34,17 +34,17 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "$"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
-      "required": true,
+      "required": false,
       "value": ""
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "statusview": {
